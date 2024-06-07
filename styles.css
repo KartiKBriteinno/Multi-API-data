@@ -1,6 +1,11 @@
 button{
-background:black;
-  color:white;
-  border-radius:5px;
-  margin:auto;
+background: black;
+color: white;
+border-radius: 5px;
+margin: auto;
+  margin-top: auto;
+display: flex;
+margin-top: 32px;
+padding: 5px 20px 5px;
+border: none;
 }
